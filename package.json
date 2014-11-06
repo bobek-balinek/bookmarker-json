@@ -1,0 +1,15 @@
+{
+  "name": "bookmarker-json",
+  "version": "0.0.1",
+  "description": "Converts Chrome-exported bookmarks to a JSON file",
+  "main": "index.js",
+  "bin": {
+    "bookmarker-json": "./index.js"
+  },
+  "author": "Przemyslaw Bobak <bobak.art@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "~0.17.0",
+    "commander": "~2.5.0"
+  }
+}
