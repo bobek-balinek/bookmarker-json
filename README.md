@@ -1,7 +1,7 @@
 bookmarker-json
 ===============
 
-# Nifty tool that converts Chrome-exported bookmarks to a JSON file
+Nifty tool that converts Chrome-exported bookmarks to a JSON file
 
 ## Basic usage:
 
