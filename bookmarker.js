@@ -8,7 +8,7 @@ var cheerio = require('cheerio'),
   outputStream = process.stdout,
   $, obj = {};
 
-args.version('0.0.1')
+args.version('0.0.2')
   .option('-f, --file <filename>','specify an input file', setupNewFileStream, 'read')
   .option('-o, --output <filename>','specify an output file', setupNewFileStream, 'write')
   .parse(process.argv);

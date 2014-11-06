@@ -1,6 +1,6 @@
 {
   "name": "bookmarker-json",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts Chrome-exported bookmarks to a JSON file",
   "repository": "https://github.com/bobek-balinek/bookmarker-json",
   "url": "http://github.com/bobek-balinek/bookmarker-json/issues",
