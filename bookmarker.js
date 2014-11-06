@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 
 var cheerio = require('cheerio'),
   args = require('commander'),
